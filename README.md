@@ -11,5 +11,5 @@ flowchart LR
 | 항목 | 내용 |
 |---|---|
 | 기술 | Electron, Vite, Firebase |
-| 내&nbsp;담당 | 앱 개발 |
+| 내&nbsp;담당 | 학생용 앱 설계, GitHub 데이터 관리, 웹 · 앱 통합 |
 | 소스&nbsp;코드 | 팀 저장소에 있으며, 팀원 동의를 받은 뒤 이곳에 올릴 예정 |
